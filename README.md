@@ -5,6 +5,7 @@ Full-stack task management application built with React, Node.js, Express, and M
 ## 🎯 Project Overview
 
 This application allows users to:
+
 - Register and login with email authentication
 - Create and manage multiple boards
 - Add, edit, delete, and complete todos
@@ -17,6 +18,7 @@ This application allows users to:
 **Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT
 
 ## 📁 Project Structure
+
 ```
 todo-app/
 ├── backend/          # Express API (Port 4000)
@@ -27,6 +29,7 @@ todo-app/
 ## 🚀 Quick Start
 
 ### Backend
+
 ```bash
 cd backend
 npm install
@@ -34,6 +37,7 @@ npm run dev
 ```
 
 ### Frontend
+
 ```bash
 cd frontend
 npm install
@@ -44,12 +48,12 @@ See individual README files in `backend/` and `frontend/` folders for detailed s
 
 ## 📸 Application Screenshots
 
-![](screenshots/Screenshot 2026-01-30 113614.png)
-![](screenshots/Screenshot 2026-01-30 113625.png)
-![](screenshots/Screenshot 2026-01-30 113635.png)
-![](screenshots/Screenshot 2026-01-30 113645.png)
-![](screenshots/Screenshot 2026-01-30 113655.png)
-![](screenshots/Screenshot 2026-01-30 113705.png)
+![](screenshots-todo/Screenshot 2026-01-30 113247.png)
+![](screenshots-todo/Screenshot 2026-01-30 113337.png)
+![](screenshots-todo/Screenshot 2026-01-30 113424.png)
+![](screenshots-todo/Screenshot 2026-01-30 113456.png)
+![](screenshots-todo/Screenshot 2026-01-30 113525.png)
+![](screenshots-todo/Screenshot 2026-01-30 113614.png)
 
 ## 📋 Features
 
@@ -79,26 +83,28 @@ January 30, 2026
 ---
 
 Built for placement assessment
+
 ```
 
 ---
 
 ## **✅ File Structure Should Be:**
 ```
+
 todo-app/
 ├── screenshots/
-│   ├── Screenshot 2026-01-30 113247.png
-│   ├── Screenshot 2026-01-30 113337.png
-│   ├── Screenshot 2026-01-30 113424.png
-│   ├── Screenshot 2026-01-30 113456.png
-│   ├── Screenshot 2026-01-30 113525.png
-│   └── Screenshot 2026-01-30 113614.png
+│ ├── Screenshot 2026-01-30 113247.png
+│ ├── Screenshot 2026-01-30 113337.png
+│ ├── Screenshot 2026-01-30 113424.png
+│ ├── Screenshot 2026-01-30 113456.png
+│ ├── Screenshot 2026-01-30 113525.png
+│ └── Screenshot 2026-01-30 113614.png
 ├── backend/
-│   ├── src/
-│   ├── README.md          ← Backend API docs
-│   └── ...
+│ ├── src/
+│ ├── README.md ← Backend API docs
+│ └── ...
 ├── frontend/
-│   ├── src/
-│   ├── README.md          ← Frontend component docs
-│   └── ...
-└── README.md              ← Main overview + screenshots
+│ ├── src/
+│ ├── README.md ← Frontend component docs
+│ └── ...
+└── README.md ← Main overview + screenshots
